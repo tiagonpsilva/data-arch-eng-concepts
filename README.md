@@ -70,14 +70,6 @@ cd data-arch-eng-concepts
 - Diagramas e visualizações
 - Links para recursos adicionais
 
-## 👥 Contribuição
-
-Contribuições são bem-vindas! Por favor, leia o [guia de contribuição](CONTRIBUTING.md) antes de submeter alterações.
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## 📚 Recursos Adicionais
 
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
